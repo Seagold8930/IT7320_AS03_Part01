@@ -5,9 +5,8 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
 
-
-import part1_Mockito.ComputeImplementation;
-import part1_Mockito.ICompute;
+import part1_labExample.ComputeImplementation;
+import part1_labExample.ICompute;
 
 public class ComputeImplementationTest {
 	//Create objects of class and interface

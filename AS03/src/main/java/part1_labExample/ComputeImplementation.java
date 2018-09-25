@@ -1,4 +1,4 @@
-package part1_Mockito;
+package part1_labExample;
 
 public class ComputeImplementation implements ICompute {
 

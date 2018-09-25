@@ -1,4 +1,4 @@
-package part1_Mockito;
+package part1_labExample;
 
 public interface ICompute {
 	public int squareVar( int num1 );
